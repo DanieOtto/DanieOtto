@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Danie Otto and I am a Software Developer at Scriptex.
+My name is Danie Otto and I am a Software Developer.
 
 I’m currently working on multiple applications within the .NET space. 
 
